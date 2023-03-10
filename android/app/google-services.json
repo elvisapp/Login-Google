@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "1075110477713",
+    "firebase_url": "https://login-61e0f-default-rtdb.firebaseio.com",
+    "project_id": "login-61e0f",
+    "storage_bucket": "login-61e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075110477713:android:e18f0806ddbf33d292e430",
+        "android_client_info": {
+          "package_name": "com.elvis.firestore_database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075110477713-4evibmrt7s0bdlbhkcusqhhkutgj95hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elvis.firestore_database",
+            "certificate_hash": "df892f540062264e18304fd1e809a9a8d0a2c7cd"
+          }
+        },
+        {
+          "client_id": "1075110477713-g1knje81riuhqbselevv786o1i7bvnjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdhkDWEBieYYmCI46obQv7cngYzRt_AhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075110477713-g1knje81riuhqbselevv786o1i7bvnjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075110477713-v87pjsjf73dbvcrdvlhor46u7onij1tr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elvis.login"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075110477713:android:f98177a2db324bd492e430",
+        "android_client_info": {
+          "package_name": "com.elvis.login_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075110477713-a3dqvcjkohgalfpb0u4ug38tvjha0v3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elvis.login_google",
+            "certificate_hash": "df892f540062264e18304fd1e809a9a8d0a2c7cd"
+          }
+        },
+        {
+          "client_id": "1075110477713-g1knje81riuhqbselevv786o1i7bvnjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdhkDWEBieYYmCI46obQv7cngYzRt_AhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075110477713-g1knje81riuhqbselevv786o1i7bvnjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075110477713-v87pjsjf73dbvcrdvlhor46u7onij1tr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elvis.login"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075110477713:android:fe01d3b6cbe20cd392e430",
+        "android_client_info": {
+          "package_name": "com.elvis.storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075110477713-hsn3f9470fbl3bfcblqrerle22nkgugb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elvis.storage",
+            "certificate_hash": "df892f540062264e18304fd1e809a9a8d0a2c7cd"
+          }
+        },
+        {
+          "client_id": "1075110477713-g1knje81riuhqbselevv786o1i7bvnjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdhkDWEBieYYmCI46obQv7cngYzRt_AhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075110477713-g1knje81riuhqbselevv786o1i7bvnjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075110477713-v87pjsjf73dbvcrdvlhor46u7onij1tr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elvis.login"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075110477713:android:ef36013dbdd6fe6d92e430",
+        "android_client_info": {
+          "package_name": "com.elvis.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075110477713-tdb9er0u6hn37dkflfr4rjhoqnb6hfkc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elvis.teste",
+            "certificate_hash": "df892f540062264e18304fd1e809a9a8d0a2c7cd"
+          }
+        },
+        {
+          "client_id": "1075110477713-g1knje81riuhqbselevv786o1i7bvnjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdhkDWEBieYYmCI46obQv7cngYzRt_AhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075110477713-g1knje81riuhqbselevv786o1i7bvnjk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075110477713-v87pjsjf73dbvcrdvlhor46u7onij1tr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elvis.login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
